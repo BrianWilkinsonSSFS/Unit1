@@ -18,7 +18,7 @@
     public class NameAndSchool {
         public static void main(String[] args) {
             //output statement for your first name
-            System.out.print("Sandra");
+            System.out.print("Brian");
             //output statement for your last name
 
             //output statement for your school
